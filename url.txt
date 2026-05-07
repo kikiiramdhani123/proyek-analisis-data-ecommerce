@@ -1,12 +1,1 @@
-https://your-app-name.streamlit.app/
-
-# CATATAN UNTUK PEMILIK PROYEK:
-# 1. Push folder ini ke repository GitHub publik.
-# 2. Buka https://share.streamlit.io/ dan login dengan akun GitHub Anda.
-# 3. Klik "New app", pilih repository tersebut, lalu set:
-#    - Branch: main (atau sesuai branch Anda)
-#    - Main file path: dashboard/dashboard.py
-# 4. Klik "Deploy" — Streamlit Cloud akan otomatis menjalankan aplikasi.
-# 5. Salin URL aplikasi yang muncul (mis. https://nama-app.streamlit.app/) dan
-#    GANTI baris pertama berkas ini dengan URL tersebut.
-# 6. Hapus blok komentar ini sebelum mengirim submission.
+https://dicodingprojectdataanalysis.streamlit.app/
