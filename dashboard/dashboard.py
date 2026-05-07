@@ -327,10 +327,13 @@ else:
 
     with st.expander("📌 Insight RFM"):
         st.markdown(
-            "- Mayoritas pelanggan berada di segmen **At Risk** — sebagian besar adalah *one-time buyer*.\n"
-            "- Segmen **Champions** dan **Loyal Customers** kecil jumlahnya namun berkontribusi pada *avg monetary* tertinggi.\n"
-            "- Strategi retensi sebaiknya difokuskan pada Champions dan Loyal Customers."
-        )
+        "- Mayoritas pelanggan (50.1%) berada di segmen **Potential Loyalists** — "
+        "mereka sudah bertransaksi beberapa kali dan berpotensi menjadi pelanggan setia.\n"
+        "- Segmen **Champions** sangat kecil (0.9%) namun memiliki *avg monetary* tertinggi "
+        "(R$ 362), artinya mereka adalah pelanggan paling bernilai.\n"
+        "- Strategi retensi sebaiknya difokuskan pada **Potential Loyalists** untuk "
+        "mendorong mereka naik ke segmen Champions dan Loyal Customers."
+    )
 
     # Spending Tier (Manual Clustering / Binning)
     st.subheader("💎 Customer Spending Tier (Manual Clustering)")
